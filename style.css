@@ -94,6 +94,7 @@ a:hover {
 }
 
 .menu-links {
+  border-radius: .5rem;
   position: absolute;
   top: 100%;
   right: 0;
