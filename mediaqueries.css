@@ -23,7 +23,8 @@
   .section-container {
     display: block;
   }
-  .arrow {
+  .arrow,
+  .arrow1 {
     display: none;
   }
   section,

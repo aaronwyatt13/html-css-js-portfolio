@@ -297,6 +297,12 @@ img {
   bottom: 2.5rem;
 }
 
+img.icon.arrow1 {
+  position: absolute;
+  right: 5rem;
+  bottom: 2.5rem;
+}
+
 .details-container {
   padding: 1.5rem;
   flex: 1;
